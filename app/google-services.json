@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1084127886661",
+    "firebase_url": "https://fir-827d9-default-rtdb.firebaseio.com",
+    "project_id": "fir-827d9",
+    "storage_bucket": "fir-827d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084127886661:android:33fc574a237af29275522c",
+        "android_client_info": {
+          "package_name": "com.nnjtrading.standify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzg8Sw8X5EOvt5XjpwjUdNNUBFZLvLib0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
